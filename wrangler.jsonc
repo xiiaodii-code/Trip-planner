@@ -1,0 +1,10 @@
+{
+  // 纯静态：public/ 里的文件直接由 Cloudflare 提供，没有后端代码
+  "name": "trip-planner",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./public",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

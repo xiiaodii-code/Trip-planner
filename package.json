@@ -1,0 +1,6 @@
+{
+  "name": "trip-planner",
+  "private": true,
+  "scripts": { "build": "python3 src/build.py" },
+  "devDependencies": { "leaflet": "1.9.4" }
+}
